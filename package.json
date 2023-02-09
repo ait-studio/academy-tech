@@ -1,0 +1,16 @@
+{
+  "name": "academy-tech",
+  "version": "0.0.1",
+  "description": "A tech blog of the AITcoding academy",
+  "main": "index.js",
+  "repository": "git@github.com:ait-studio/academy-tech.git",
+  "author": "DENVER(hajun) <fe.dev.denver@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
