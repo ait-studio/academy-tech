@@ -1,4 +1,3 @@
-# Hello, AIT Academy
+# 앨런 튜링, 폰 노이만, 데니스 리치, *주희민 Let's Go*
 
-hi, 하준
-hi, 희민
+hi
